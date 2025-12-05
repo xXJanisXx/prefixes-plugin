@@ -5,7 +5,7 @@ plugins {
 
 dependencies {
     api(project(":prefixes-api"))
-    paperweight.paperDevBundle("1.21.4-R0.1-SNAPSHOT")
+    paperweight.paperDevBundle("1.21.10-R0.1-SNAPSHOT")
     compileOnly(libs.paper.api)
 }
 
