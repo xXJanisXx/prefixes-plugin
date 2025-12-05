@@ -1,7 +1,7 @@
 [versions]
 kotlin = "2.0.20"
 shadow = "8.3.3"
-paper-api = "1.21.4-R0.1-SNAPSHOT"
+paper-api = "1.21.10-R0.1-SNAPSHOT"
 paperweight = "2.0.0-beta.19"
 minotaur = "2.8.7"
 sonatype-central-portal-publisher = "1.2.4"

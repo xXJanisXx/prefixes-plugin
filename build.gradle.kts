@@ -38,9 +38,9 @@ subprojects {
 
         compileOnly("net.luckperms:api:5.4")
         compileOnly("space.chunks.custom-names:custom-names-api:1.0.6")
-        implementation("net.kyori:adventure-api:4.14.0")
+        implementation("net.kyori:adventure-api:4.25.0")
         implementation("com.google.code.gson:gson:2.10.1")
-        implementation("net.kyori:adventure-text-minimessage:4.14.0")
+        implementation("net.kyori:adventure-text-minimessage:4.25.0")
     }
 
     java {
