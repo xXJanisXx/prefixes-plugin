@@ -71,7 +71,7 @@ This repository is licensed under [Apache 2.0][license].
 [banner]: https://github.com/simplecloudapp/branding/blob/main/readme/banner/plugin/prefixes.png?raw=true
 [issue-bug-report]: https://github.com/simplecloudapp/prefixes-plugin/issues/new?labels=bug&projects=template=01_BUG-REPORT.yml&title=%5BBUG%5D+%3Ctitle%3E
 [issue-feature-request]: https://github.com/simplecloudapp/prefixes-plugin/discussions/new?category=ideas
-[docs-thisproject]: https://docs.simplecloud.app/manual/plugins/prefixes
+[docs-thisproject]: https://docs.simplecloud.app/en/manual/plugin/prefixes
 [docs-contribute]: https://docs.simplecloud.app/contribute
 
 [modrinth]: https://modrinth.com/organization/simplecloud
